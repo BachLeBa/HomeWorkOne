@@ -1,0 +1,44 @@
+ul{
+    background-color:aqua ;
+    margin-bottom: 0;
+}
+
+li{
+    display: inline-block;
+    width: 30%;
+    color: darkblue;
+}
+div{
+    width: 100%;
+}
+.div1{
+    background-color: gray;
+}
+.div2{
+    background-color: yellow;
+}
+.div3{
+    background-color: grey;
+}
+img{
+    display: inline;
+    height: 80pt;
+    width: 60pt;
+}
+
+.pic1{
+    display: block;
+    margin: auto;
+    height: 200pt;
+    width: 250pt;
+    padding-top: 10pt;
+}
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.highlight{
+    color: blue;
+    text-decoration: underline;
+}
+
